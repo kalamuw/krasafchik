@@ -1,0 +1,176 @@
+.section{
+    font-size: 50px;
+    color: #171616;
+    display: flex;
+    justify-content: center;
+    margin-left: 200px;
+}
+.section__right{
+    margin-top: -580px;
+    margin-left: 30px;
+}
+.section__top{
+    color: #6CAC3D;
+    margin-left: 100px;
+    margin-top: -70px;
+}
+.section__string{
+    margin-left: 100px;
+    margin-top: -15px;
+}
+.section__small--print{
+    color: #171616;
+    margin-left: 30px;
+    margin-top: 50px;
+    font-size: 15px;
+}
+.section__line{
+    margin-left: 10px;
+    margin-top: 50px;
+}
+.section__demontej{
+    font-size: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.section__check{
+    margin-left: 20px;
+    height: 20px;
+}
+.section__wrong{
+    margin-left: 35px;
+    margin-top: -40px;
+}
+.section__the{
+    margin-left: 20px;
+}
+.section__global{
+    color: #C4C4C4;
+    margin-left: 30px;
+}
+.section__selectr{
+    font-size: 10px;
+    color: #2D4872;
+    margin-left: 100px;
+}
+.section__stick{
+    margin-left: 200px;
+    margin-top: -25px;
+}
+.section__wrap{
+    margin-left: 30px;
+}
+.section__phone{
+    color: #6CAC3D;
+    margin-left: 140px;
+    margin-top: -40px;
+}
+.section__button button{
+    width: 150px;
+    height: 40px;
+    margin-left: 80px;
+    border-radius: 10px;
+    border: none;
+    margin-top: -20px;
+    background-color: #6CAC3D;
+    position: relative;
+}
+.function{
+    margin-left: 400px;
+    margin-top: -580px;
+}
+.padding{
+    margin-left: 780px;
+    margin-top: -580px;
+}
+.content{
+    margin-left: 1180px;
+    margin-top: -580px;
+}
+.section__center{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.flex__devan{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    .section__songs{
+        display: flex;
+    }
+    .img__svg{
+        gap: 2px;
+        display: grid;
+    }
+}
+.section__liked{
+    p{
+        color: #595959;
+    }
+}
+.section__paragph b{
+    display: grid;
+    margin-top: 15px;
+}
+.section__text{
+    margin-top: 280px;
+    transform: translatex(-150px);
+}
+.section__aksia{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+.section__family{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 30px;
+}
+.section__for{
+    background-image: url(../images/family-moving-using-boxes\ 1.png);
+    width: 287px;
+    height: 390px;
+    .section__for__p{
+        padding-top: 230px;
+        padding-left: 20px;
+        align-items: end;
+        .novoste{
+            text-align: center;
+            font-size: 20px;
+        }
+        
+        .novostete{
+            margin-left: 60px;
+            background-color: #6CAC3D;
+            color: #C4C4C4;
+            height: 30px;
+            width: 140px;
+        }
+
+    }
+
+}
+
+.vise__aksiya{
+    padding: 40px;
+    h1{
+        text-align: center;
+    }
+    .vise__p{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 50px;
+    }
+
+    .devsvg_flex{
+        display: flex;
+    }
+}
+.secrtion__main--string{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}

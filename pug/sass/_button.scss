@@ -1,0 +1,28 @@
+
+.button__surrounding{
+    button{
+        width: 250px;
+        border: none;
+        border-radius: 5px;
+        height: 50px;
+    }
+    .button__bg{
+        background-color: #2D4872;
+        color: white;
+    }
+    display: flex;
+    justify-content: center;
+    gap: 19px;
+}
+.section__button--bg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    button{
+        background-color: #6CAC3D;
+        border: none;
+        border-radius: 5px;
+        width: 200px;
+        height: 50px;
+    }
+}
